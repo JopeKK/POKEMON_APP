@@ -1,6 +1,6 @@
 # pokemon_app
 
-A new Flutter project.
+Aplikacja nie dziala ze wzgledu na brak kluczy api jest ona aktualnie przygotowana tylko na IOS.
 
 ## Getting Started
 
