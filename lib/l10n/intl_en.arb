@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "errorMainLogic": "Error with main logic",
+  "@errorMainLogic": {},
+  "errorTile": "Error with tile ",
+  "@errorTile": {},
+  "errorWithApi": "Error while working with api",
+  "@errorWithApi": {},
+  "errorWithName": "Error with pokemon name",
+  "@errorWithName": {},
+  "errorWithType": "Error with pokemon type",
+  "@errorWithType": {},
+  "hopIn": "Hop in",
+  "@hopIn": {},
+  "welcomeText": "Welcome in our pokemon world\n come explore with us",
+  "@welcomeText": {}
+}

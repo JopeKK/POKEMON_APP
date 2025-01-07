@@ -1,0 +1,17 @@
+{
+  "@@locale": "pl",
+  "errorMainLogic": "Błąd podczas wykonywania logiki głównej",
+  "@errorMainLogic": {},
+  "errorTile": "Problem z ladowaniem kafelkow",
+  "@errorTile": {},
+  "errorWithApi": "Błąd podczas ładowania danych z api",
+  "@errorWithApi": {},
+  "errorWithName": "Problem z nazwa pokemona",
+  "@errorWithName": {},
+  "errorWithType": "Problem z typem pokemona",
+  "@errorWithType": {},
+  "hopIn": "Dołącz do nas",
+  "@hopIn": {},
+  "welcomeText": "Witaj w świecie pokemonów \n odkrywaj go z nami",
+  "@welcomeText": {}
+}
